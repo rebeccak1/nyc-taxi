@@ -1,4 +1,6 @@
 # nyc-taxi
+## Goal
+Kaggle competition to predict NYC taxi travel times. The report for the project is at capstone.pdf.
 
 ## Software and Libraries
 - Python 3
@@ -14,5 +16,3 @@ The datasets for the fastest routes from OSRM can be found <a href=https://www.k
 
 ## Visualization Image
 The final visualization image for the project report is visualization.pdf (.png), and is best viewed zoomed in.
-
-
